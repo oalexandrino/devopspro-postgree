@@ -1,1 +1,1 @@
-# devopspro-postgree
+# devopspro-postgreedocker run --name postgres_local -e POSTGRES_DB=curso_docker -e POSTGRES_USER=docker_usr -e POSTGRES_PASSWORD=docker_pwd -d -p 5432:5432 postgres
